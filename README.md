@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @broken_system92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @anti-squad Web developer 
+- 👀 I’m interested in ... Web Development 
+- 🌱 I’m currently learning ... Skills 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Instagram, Telegram, WhatsApp, Email 
 
 <!---
-Codingtech92/Codingtech92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anti-Squad Web Developer  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
